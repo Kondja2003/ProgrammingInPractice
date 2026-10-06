@@ -1,12 +1,3 @@
-/*
- * PAP521S - Programming in Practice
- * Week 6 Practical Lab: Municipal Information Management System
- *
- * Part A: Employee salaries      (float salaries[50])
- * Part B: Department budgets     (float budgets[10])
- * Part C: Vehicle registrations  (char registrations[20][20])
- */
-
 #include <stdio.h>
 #include <string.h>
 
